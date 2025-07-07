@@ -6,8 +6,8 @@ import ReactLogo from '../../assets/skills-icons/react-logo.svg';
 import TailwindLogo from '../../assets/skills-icons/tailwind-logo.svg';
 import BootstrapLogo from '../../assets/skills-icons/bootstrap-logo.svg';
 
-import gitLogo from '../../assets/skills-icons/git-logo.svg';
-import gitHubLogo from '../../assets/skills-icons/gitHub-logo.svg';
+import gitLogo from '../../assets/skills-icons/gitlogo.svg';
+import gitHubLogo from '../../assets/skills-icons/gh-logo.svg';
 import vsCodeLogo from '../../assets/skills-icons/vs-code.svg';
 import vercelLogo from '../../assets/skills-icons/vercel-logo.svg';
 import netlifyLogo from '../../assets/skills-icons/netlify-logo.svg';
