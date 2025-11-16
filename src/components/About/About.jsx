@@ -33,7 +33,7 @@ const about = () => {
 
           {/*CV Download Section */}
           <a
-            href='https://drive.google.com/file/d/1jxvsYnYKm65P8mdJLHWRvz9Ow3l1DdOY/view?usp=drive_link'
+            href='https://drive.google.com/file/d/10AP20hLUaJinnhdAmW5P5QluGcavVBgI/view?usp=sharing'
             target='_blank'
             rel='noopener noreferrer'
             className='inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105'
